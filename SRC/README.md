@@ -3,22 +3,22 @@
 ## SCREENSHOTS OF THE PROJECT
 
 #### MENU
-![menu](https://user-images.githubusercontent.com/80378720/116445857-f6305480-a873-11eb-8068-65022025bf41.png)
+![menu](https://github.com/Aranshu/Phonebook-Directory-System/blob/master/Image/Menu.png?raw=true)
 
 #### ADD NEW CONTACT 
-![addnewcontact](https://user-images.githubusercontent.com/80378720/116445932-0ba57e80-a874-11eb-8922-1f6d31477da3.png)
+![addnewcontact](https://github.com/Aranshu/Phonebook-Directory-System/blob/master/Image/Add_New_Contact.png?raw=true)
 
 #### DELETE ALL 
-![delete all](https://user-images.githubusercontent.com/80378720/116598618-af5e5f80-a944-11eb-89b2-0a8974855e62.png)
+![delete all](https://github.com/Aranshu/Phonebook-Directory-System/blob/master/Image/Delete_All.png?raw=true)
 
 #### SEARCH FOR A CONTACT(using name)
-![search_name](https://user-images.githubusercontent.com/80378720/116446124-44455800-a874-11eb-9573-07dd0d42571a.png)
+![search_name](https://github.com/Aranshu/Phonebook-Directory-System/blob/master/Image/Search_Name.png?raw=true)
 
 #### SEARCH FOR A CONTACT(using number)
-![search_number](https://user-images.githubusercontent.com/80378720/116446200-56bf9180-a874-11eb-8464-9226dd2bea2d.png)
+![search_number](https://github.com/Aranshu/Phonebook-Directory-System/blob/master/Image/Search_Contact.png?raw=true)
 
 #### DISPLAY ALL CONTACTS
-![display](https://user-images.githubusercontent.com/80378720/116446259-650dad80-a874-11eb-93f8-e1b6800283cb.png)
+![display](https://github.com/Aranshu/Phonebook-Directory-System/blob/master/Image/Delete_All.png?raw=true)
 
 #### EXIT
-![exit](https://user-images.githubusercontent.com/80378720/116446292-6ccd5200-a874-11eb-8e81-de6975aeac5e.png)
+![exit](https://github.com/Aranshu/Phonebook-Directory-System/blob/master/Image/Exit.png?raw=true)
